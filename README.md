@@ -16,4 +16,5 @@ Jika elemen tidak ditemukan, algoritma akan mengembalikan -1.
 Terakhir, kode melakukan pencarian pada list var dan mencetak hasil pencarian untuk setiap elemen dalam list. Kemudian, kode melakukan pencarian pada sublist pada indeks 3 dari list var untuk elemen "Wahyu" dan "Wibi", dan mencetak hasil pencarian tersebut.
 
 Berikut adalah output
+
 ![Screen Shot 2023-03-11 at 1 36 12 AM](https://user-images.githubusercontent.com/126859339/224384661-969ed069-055c-41cc-af2f-0767e2697cc9.png)
